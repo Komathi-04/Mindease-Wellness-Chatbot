@@ -1,0 +1,7 @@
+transformers>=4.35.0
+torch>=2.0.0
+sentence-transformers>=2.2.0
+nltk>=3.8
+pandas>=2.0.0
+plotly>=5.17.0
+streamlit>=1.28.0
